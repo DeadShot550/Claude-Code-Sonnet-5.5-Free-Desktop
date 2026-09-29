@@ -1,0 +1,3 @@
+/* rev-d4e82b-20260929 */
+CHANGELOG.txt
+2026-09-28 Sonnet 5.5, 1M context, Copilot GA

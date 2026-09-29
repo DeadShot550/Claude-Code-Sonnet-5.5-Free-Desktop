@@ -1,0 +1,3 @@
+/* rev-d4e82b-20260929 */
+Usage.txt
+128K max output, batch 50% off
